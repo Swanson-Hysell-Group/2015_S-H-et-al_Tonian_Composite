@@ -9,3 +9,11 @@ Swanson-Hysell, N.L., Maloof, A.C., Condon, D.J., Jenkin, G.R.T., Alene, M., Tre
 In that manuscript, new carbon isotope data and U-Pb dates are presented from the Tambien Group of northern Ethiopia. These data are used to constrain a composite carbon isotope curve that also contains data from other basins which was presented in Fig 2c. Figure 2 of Swanson-Hysell et al. (2015) is reproduced below:
 
 ![Fig2](Swanson-Hysell_et_al_2015/Figure_2.png)
+
+The Jupyter notebook that builds up this composite can be viewed as static html here:
+
+https://github.com/Swanson-Hysell-Group/Tonian_Composite/blob/master/Tonian_Composite.ipynb
+
+or here:
+
+http://nbviewer.jupyter.org/github/Swanson-Hysell-Group/Tonian_Composite/blob/master/Tonian_Composite.ipynb
