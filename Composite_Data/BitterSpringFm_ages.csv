@@ -1,0 +1,474 @@
+,section,lithology,formation,strat_m,composite_strat,d13C,d18O,d13Corg,Dd13C,TOC%,age
+0,W1,dolostone,Bitter Springs,-2000.9,-53.4,-1.0,-6.1,,,,826
+1,W1,dolostone,Bitter Springs,-2000.8,-53.3,-1.1,-4.9,,,,825.980506822612
+2,W1,insoluble residue,Bitter Springs,-2000.7,-53.2,,,-27.6,26.5,,825.9610136452242
+3,W1,insoluble residue,Bitter Springs,-1999.5,-52.0,,,-28.7,27.2,,825.7270955165692
+4,W1,dolostone,Bitter Springs,-1997.6,-50.1,-1.3,-5.0,,,,825.3567251461988
+5,W1,dolostone,Bitter Springs,-1997.6,-50.1,-1.5,-5.0,,,,825.3567251461988
+6,W1,dolostone,Bitter Springs,-1996.7,-49.2,-1.0,-5.3,-29.0,27.9,0.036000000000000004,825.1812865497076
+7,W1,dolostone,Bitter Springs,-1995.4,-47.9,-0.9,-5.5,,,,824.9278752436647
+8,W1,dolostone,Bitter Springs,-1995.0,-47.5,-1.2,-5.6,,,,824.8499025341131
+9,W1,dolostone,Bitter Springs,-1993.7,-46.2,-0.6,-5.3,,,,824.5964912280702
+10,W1,dolostone,Bitter Springs,-1993.3,-45.8,-0.7,-5.8,,,,824.5185185185186
+11,W1,insoluble residue,Bitter Springs,-1993.2,-45.7,,,-29.3,28.5,,824.4990253411307
+12,W1,dolostone,Bitter Springs,-1991.5,-44.0,0.1,-5.3,,,,824.1676413255362
+13,W1,dolostone,Bitter Springs,-1990.9,-43.4,-0.3,-5.5,,,,824.0506822612087
+14,W1,dolostone,Bitter Springs,-1990.3,-42.8,-0.6,-5.5,,,,823.9337231968813
+15,W1,dolostone,Bitter Springs,-1988.6,-41.1,-0.8,-5.2,-30.0,29.3,,823.6023391812868
+16,W1,dolostone,Bitter Springs,-1988.1,-40.6,0.4,-5.1,,,,823.5048732943472
+17,W1,dolostone,Bitter Springs,-1986.4,-38.9,-0.5,-5.6,,,,823.1734892787528
+18,W1,dolostone,Bitter Springs,-1985.5,-38.0,0.2,-4.9,,,,822.9980506822615
+19,W1,dolostone,Bitter Springs,-1984.2,-36.7,-0.4,-4.7,,,,822.7446393762186
+20,W1,dolostone,Bitter Springs,-1983.2,-35.7,-0.3,-5.9,,,,822.5497076023395
+21,W1,dolostone,Bitter Springs,-1981.9,-34.4,0.6,-4.5,-27.7,28.3,0.016,822.2962962962966
+22,W1,dolostone,Bitter Springs,-1981.5,-34.0,0.4,-4.8,,,,822.218323586745
+23,W1,dolostone,Bitter Springs,-1980.2,-32.7,-0.3,-4.0,,,,821.9649122807022
+24,W1,dolostone,Bitter Springs,-1979.4,-31.9,0.2,-5.5,,,,821.8089668615988
+25,W1,insoluble residue,Bitter Springs,-1978.7,-31.2,,,-28.6,28.7,,821.6725146198834
+26,W1,dolostone,Bitter Springs,-1978.6,-31.1,0.1,-5.5,,,,821.6530214424954
+27,W1,dolostone,Bitter Springs,-1977.1,-29.6,0.5,-4.2,,,,821.3606237816767
+28,W1,dolostone,Bitter Springs,-1976.8,-29.3,0.7,-4.6,,,,821.302144249513
+29,W1,dolostone,Bitter Springs,-1975.9,-28.4,-0.6,-5.3,,,,821.1267056530219
+30,W1,dolostone,Bitter Springs,-1975.0,-27.5,0.2,-4.4,,,,820.9512670565306
+31,W1,insoluble residue,Bitter Springs,-1973.8,-26.3,,,-28.0,28.8,,820.7173489278756
+32,W1,dolostone,Bitter Springs,-1973.7,-26.2,0.8,-5.3,,,,820.6978557504877
+33,W1,dolostone,Bitter Springs,-1972.4,-24.9,0.9,-5.0,,,,820.4444444444449
+34,W1,insoluble residue,Bitter Springs,-1972.3,-24.8,,,-26.5,27.7,,820.4249512670569
+35,W1,dolostone,Bitter Springs,-1972.2,-24.7,1.2,-5.3,,,,820.4054580896691
+36,W1,dolostone,Bitter Springs,-1971.7,-24.2,1.2,-5.4,,,,820.3079922027296
+37,W1,dolostone,Bitter Springs,-1970.5,-23.0,0.4,-4.8,,,,820.0740740740746
+38,W1,dolostone,Bitter Springs,-1969.9,-22.4,1.1,-5.0,,,,819.9571150097471
+39,W1,insoluble residue,Bitter Springs,-1969.2,-21.7,,,-27.5,28.6,,819.8206627680316
+40,W1,dolostone,Bitter Springs,-1968.8,-21.3,1.6,-5.5,,,,819.74269005848
+41,W1,dolostone,Bitter Springs,-1967.6,-20.1,1.7,-5.7,,,,819.508771929825
+42,W1,dolostone,Bitter Springs,-1967.5,-20.0,1.7,-5.8,,,,819.4892787524371
+43,W1,dolostone,Bitter Springs,-1966.0,-18.5,-1.3,-5.6,,,,819.1968810916185
+44,W1,dolostone,Bitter Springs,-1965.3,-17.8,0.4,-4.4,,,,819.060428849903
+45,W1,dolostone,Bitter Springs,-1963.8,-16.3,0.8,-2.7,,,,818.7680311890844
+46,W1,dolostone,Bitter Springs,-1963.2,-15.7,1.0,-2.6,,,,818.6510721247569
+47,W1,dolostone,Bitter Springs,-1961.9,-14.4,1.3,-3.1,,,,818.397660818714
+48,W1,insoluble residue,Bitter Springs,-1961.9,-14.4,,,-27.0,28.3,,818.397660818714
+49,W1,dolostone,Bitter Springs,-1961.3,-13.8,1.6,-3.3,,,,818.2807017543865
+50,W1,,Bitter Springs,-1960.9,-13.4,,,,,,818.2027290448349
+51,W1,dolostone,Bitter Springs,-1960.0,-12.5,1.9,-2.2,-27.6,29.5,,818.0272904483436
+52,W1,dolostone,Bitter Springs,-1958.8,-11.3,2.0,-2.3,,,,817.7933723196886
+53,W1,dolostone,Bitter Springs,-1958.1,-10.6,2.0,-2.6,,,,817.6569200779732
+54,W1,dolostone,Bitter Springs,-1957.2,-9.7,2.2,-3.2,,,,817.481481481482
+55,W1,dolostone,Bitter Springs,-1956.3,-8.8,2.6,-2.0,,,,817.3060428849907
+56,W1,,Bitter Springs,-1955.4,-7.9,,,,,,817.1306042884995
+57,W1,insoluble residue,Bitter Springs,-1955.3,-7.8,,,-28.3,32.4,0.109,817.1111111111115
+58,W1,dolostone,Bitter Springs,-1954.2,-6.7,4.1,-2.7,,,,816.8966861598445
+59,W1,dolostone,Bitter Springs,-1953.5,-6.0,4.2,-3.4,-27.0,,0.013999999999999999,816.7602339181291
+60,W1,dolostone,Bitter Springs,-1952.0,-4.5,4.8,-5.0,-26.6,31.4,,816.4678362573104
+61,W1,dolostone,Bitter Springs,-1951.3,-3.8,4.6,-4.5,,,,816.331384015595
+62,W1,dolostone,Bitter Springs,-1950.6,-3.1,4.7,-2.5,,,,816.1949317738795
+63,W1,dolostone,Bitter Springs,-1950.1,-2.6,4.4,-4.4,,,,816.09746588694
+64,W1,insoluble residue,Bitter Springs,-1949.6,-2.1,,,-26.0,26.0,,816
+65,W1,dolostone,Bitter Springs,-1947.5,0.0,6.5,-1.7,,,,809.5
+66,W1,dolostone,Bitter Springs,-1947.1,0.4,6.6,-3.5,-26.5,33.1,,809.4618193465727
+67,W1,dolostone,Bitter Springs,-1946.1,1.4,6.4,-5.8,-27.3,33.7,0.013999999999999999,809.3663677130045
+68,W1,dolostone,Bitter Springs,-1938.2,9.3,4.8,-2.7,-25.3,30.1,0.006,808.6122998078155
+69,W1,dolostone,Bitter Springs,-1937.0,10.5,1.3,-5.2,-29.1,,0.076,808.4977578475336
+70,W1,insoluble residue,Bitter Springs,-1936.3,11.2,,,-27.5,28.8,,808.4309417040358
+71,W1,dolostone,Bitter Springs,-1936.2,11.3,1.3,-6.3,,,,808.421396540679
+72,W1,dolostone,Bitter Springs,-1935.6,11.9,1.5,-5.6,,,,808.364125560538
+73,W1,dolostone,Bitter Springs,-1934.3,13.2,0.5,-5.3,,,,808.2400384368993
+74,W1,insoluble residue,Bitter Springs,-1934.0,13.5,,,-25.7,26.2,,808.2114029468289
+75,W1,dolostone,Bitter Springs,-1933.4,14.1,0.1,-5.4,,,,808.1541319666879
+76,W1,dolostone,Bitter Springs,-1932.2,15.3,-0.7,-5.7,,,,808.0395900064061
+77,W1,dolostone,Bitter Springs,-1931.3,16.2,-1.1,-5.8,,,,807.9536835361947
+78,W1,insoluble residue,Bitter Springs,-1931.1,16.4,,,-27.2,26.1,,807.934593209481
+79,W1,dolostone,Bitter Springs,-1930.6,16.9,-1.1,-5.7,,,,807.8868673926969
+80,W1,dolostone,Bitter Springs,-1929.6,17.9,-1.5,-6.0,,,,807.7914157591287
+81,W1,,Bitter Springs,-1929.1,18.4,,,,,,807.7436899423445
+82,W1,dolostone,Bitter Springs,-1928.6,18.9,-1.8,-6.0,,,,807.6959641255604
+83,W1,dolostone,Bitter Springs,-1928.3,19.2,-1.3,-5.6,,,,807.66732863549
+84,W1,dolostone,Bitter Springs,-1927.3,20.2,-1.3,-5.5,,,,807.5718770019217
+85,W1,dolostone,Bitter Springs,-1926.6,20.9,-1.3,-5.7,,,,807.5050608584239
+86,W1,dolostone,Bitter Springs,-1926.0,21.5,-1.1,-5.7,,,,807.447789878283
+87,W1,insoluble residue,Bitter Springs,-1924.1,23.4,,,-27.4,26.2,,807.2664317745033
+88,W1,dolostone,Bitter Springs,-1923.1,24.4,-1.2,-5.2,,,,807.1709801409351
+89,W1,dolostone,Bitter Springs,-1922.3,25.2,-1.1,-6.0,-30.7,29.6,0.063,807.0946188340805
+90,W1,dolostone,Bitter Springs,-1920.7,26.8,-1.3,-5.7,,,,806.9418962203714
+91,W1,dolostone,Bitter Springs,-1920.0,27.5,-1.5,-5.6,-30.0,28.6,0.034,806.8750800768736
+92,W1,dolostone,Bitter Springs,-1919.3,28.2,-1.5,-5.8,,,,806.8082639333758
+93,W1,dolostone,Bitter Springs,-1917.9,29.6,-1.5,-5.5,,,,806.6746316463802
+94,W1,dolostone,Bitter Springs,-1917.2,30.3,-1.9,-5.5,,,,806.6078155028824
+95,W1,dolostone,Bitter Springs,-1916.4,31.1,-1.6,-5.8,,,,806.5314541960279
+96,W1,dolostone,Bitter Springs,-1914.6,32.9,-1.5,-5.7,,,,806.3596412556051
+97,W1,dolostone,Bitter Springs,-1913.2,34.3,-2.1,-5.2,-30.1,28.0,0.053,806.2260089686096
+98,W1,dolostone,Bitter Springs,-1912.6,34.9,-2.2,-5.5,,,,806.1687379884686
+99,W1,dolostone,Bitter Springs,-1911.5,36.0,-2.3,-5.1,,,,806.0637411915435
+100,W1,anhydrite,Bitter Springs,-1910.5,37.0,,,,,,805.9682895579753
+101,W1,dolostone,Bitter Springs,-1910.4,37.1,-2.3,-5.6,,,,805.9587443946184
+102,W1,anhydrite,Bitter Springs,-1910.3,37.2,,,,,,805.9491992312616
+103,W1,dolostone,Bitter Springs,-1909.6,37.9,-2.4,-5.7,,,,805.8823830877637
+104,W1,dolostone,Bitter Springs,-1908.4,39.1,-2.4,-5.5,,,,805.7678411274819
+105,W1,insoluble residue,Bitter Springs,-1908.1,39.4,,,-28.4,26.0,,805.7392056374115
+106,W1,dolostone,Bitter Springs,-1907.5,40.0,-2.8,-5.1,,,,805.6819346572705
+107,W1,,Bitter Springs,-1906.8,40.7,,,,,,805.6151185137727
+108,W1,dolostone,Bitter Springs,-1906.5,41.0,-3.2,-6.1,,,,805.5864830237023
+109,W1,dolostone,Bitter Springs,-1905.9,41.6,-3.2,-6.0,,,,805.5292120435613
+110,W1,dolostone,Bitter Springs,-1904.8,42.7,-2.6,-4.5,,,,805.4242152466362
+111,W1,dolostone,Bitter Springs,-1904.0,43.5,-2.6,-5.5,,,,805.3478539397817
+112,W1,anhydrite,Bitter Springs,-1902.5,45.1,,,,,,805.2046764894293
+113,W1,dolostone,Bitter Springs,-1901.6,45.9,-3.2,-5.4,,,,805.1187700192179
+114,W1,dolostone,Bitter Springs,-1901.1,46.4,-2.8,-5.9,,,,805.0710442024338
+115,W1,insoluble residue,Bitter Springs,-1900.8,46.7,,,-29.1,26.3,,805.0424087123633
+116,W1,dolostone,Bitter Springs,-1899.8,47.7,-3.5,-5.7,,,,804.9469570787951
+117,W1,dolostone,Bitter Springs,-1898.6,48.9,-3.2,-6.0,,,,804.8324151185133
+118,W1,dolostone,Bitter Springs,-1897.5,50.0,-2.9,-5.9,,,,804.7274183215882
+119,W1,,Bitter Springs,-1896.7,50.8,,,,,,804.6510570147336
+120,W1,dolostone,Bitter Springs,-1896.5,51.0,-2.9,-5.8,,,,804.6319666880199
+121,W1,dolostone,Bitter Springs,-1896.3,51.2,-2.9,-5.9,-30.8,27.9,0.061,804.6128763613062
+122,W1,,Bitter Springs,-1895.8,51.7,,,,,,804.5651505445221
+123,W1,dolostone,Bitter Springs,-1895.2,52.3,-2.9,-6.0,,,,804.5078795643811
+124,W1,dolostone,Bitter Springs,-1893.5,54.0,-3.2,-5.8,,,,804.3456117873152
+125,W1,dolostone,Bitter Springs,-1891.9,55.6,-2.9,-5.1,,,,804.1928891736061
+126,W1,insoluble residue,Bitter Springs,-1891.8,55.7,,,-30.9,28.0,,804.1833440102492
+127,W1,dolostone,Bitter Springs,-1891.2,56.3,-2.9,-5.1,,,,804.1260730301083
+128,W1,dolostone,Bitter Springs,-1890.7,56.8,-3.1,-5.3,,,,804.0783472133242
+129,W1,dolostone,Bitter Springs,-1890.2,57.3,-3.0,-5.5,,,,804.03062139654
+130,W1,dolostone,Bitter Springs,-1889.2,58.3,-3.1,-5.5,,,,803.9351697629718
+131,W1,dolostone,Bitter Springs,-1888.2,59.3,-3.1,-4.8,,,,803.8397181294035
+132,W1,dolostone,Bitter Springs,-1887.6,59.9,-3.1,-5.3,,,,803.7824471492626
+133,W1,dolostone,Bitter Springs,-1886.2,61.3,-3.2,-5.0,,,,803.648814862267
+134,W1,insoluble residue,Bitter Springs,-1886.1,61.4,,,-28.3,25.1,,803.6392696989102
+135,W1,dolostone,Bitter Springs,-1885.9,61.6,-3.4,-5.6,,,,803.6201793721966
+136,W1,dolostone,Bitter Springs,-1884.9,62.6,-3.7,-6.1,,,,803.5247277386284
+137,W1,dolostone,Bitter Springs,-1883.2,64.3,-3.7,-5.3,,,,803.3624599615624
+138,W1,dolostone,Bitter Springs,-1882.3,65.2,-3.1,-5.8,,,,803.276553491351
+139,W1,limestone,Bitter Springs,-1882.0,65.5,-2.9,-9.8,,,,803.2479180012806
+140,W1,dolostone,Bitter Springs,-1881.2,66.3,-3.5,-5.8,,,,803.171556694426
+141,W1,dolostone,Bitter Springs,-1880.1,67.4,-4.1,-5.2,,,,803.066559897501
+142,W1,dolostone,Bitter Springs,-1878.8,68.7,-4.2,-4.8,,,,802.9424727738623
+143,W1,dolostone,Bitter Springs,-1878.3,69.2,-4.0,-5.1,,,,802.8947469570782
+144,W1,dolostone,Bitter Springs,-1877.8,69.7,-4.1,-5.0,,,,802.847021140294
+145,W1,dolostone,Bitter Springs,-1877.6,69.9,-3.4,-5.1,,,,802.8279308135803
+146,W1,dolostone,Bitter Springs,-1876.4,71.1,-3.8,-5.3,-30.9,27.1,,802.7133888532985
+147,W1,dolostone,Bitter Springs,-1874.9,72.6,-3.1,-4.6,,,,802.5702114029461
+148,W1,dolostone,Bitter Springs,-1874.3,73.2,-3.1,-3.5,,,,802.5129404228052
+149,W1,insoluble residue,Bitter Springs,-1874.2,73.3,,,-30.7,27.6,,802.5033952594483
+150,W1,dolostone,Bitter Springs,-1872.8,74.7,-2.8,-3.2,,,,802.3697629724528
+151,W1,dolostone,Bitter Springs,-1872.4,75.1,-3.1,-4.7,,,,802.3315823190255
+152,W1,dolostone,Bitter Springs,-1871.3,76.2,-2.9,-4.7,,,,802.2265855221004
+153,W1,,Bitter Springs,-1870.9,76.6,,,,,,802.1884048686732
+154,W1,dolostone,Bitter Springs,-1870.6,76.9,-3.2,-4.9,,,,802.1597693786027
+155,W1,,Bitter Springs,-1870.0,77.5,,,,,,802.1024983984618
+156,W1,dolostone,Bitter Springs,-1869.3,78.2,-3.0,-4.2,,,,802.035682254964
+157,W1,insoluble residue,Bitter Springs,-1868.8,78.7,,,-31.0,27.9,,801.9879564381798
+158,W1,dolostone,Bitter Springs,-1868.1,79.4,-3.1,-3.7,,,,801.921140294682
+159,W1,dolostone,Bitter Springs,-1867.1,80.4,-2.9,-4.9,,,,801.8256886611138
+160,W1,dolostone,Bitter Springs,-1866.6,80.9,-3.2,-5.1,,,,801.7779628443296
+161,W1,dolostone,Bitter Springs,-1865.9,81.6,-3.1,-3.5,,,,801.7111467008319
+162,W1,dolostone,Bitter Springs,-1865.5,82.0,-3.4,-4.7,,,,801.6729660474047
+163,W1,dolostone,Bitter Springs,-1865.0,82.5,-3.5,-5.0,,,,801.6252402306205
+164,W1,insoluble residue,Bitter Springs,-1864.2,83.3,,,-29.9,26.4,,801.548878923766
+165,W1,dolostone,Bitter Springs,-1862.8,84.7,-3.5,-4.7,,,,801.4152466367705
+166,W1,dolostone,Bitter Springs,-1862.4,85.1,-3.8,-4.9,,,,801.3770659833432
+167,W1,dolostone,Bitter Springs,-1861.3,86.2,-4.0,-4.9,,,,801.2720691864181
+168,W1,dolostone,Bitter Springs,-1861.0,86.5,-3.6,-4.3,,,,801.2434336963477
+169,W1,dolostone,Bitter Springs,-1859.8,87.7,-4.1,-5.0,-32.1,28.0,0.145,801.1288917360658
+170,W1,dolostone,Bitter Springs,-1859.2,88.3,-3.9,-4.6,,,,801.0716207559249
+171,W1,,Bitter Springs,-1859.0,88.5,,,,,,801.0525304292112
+172,W1,,Bitter Springs,-1858.8,88.7,,,,,,801.0334401024975
+173,W1,dolostone,Bitter Springs,-1857.6,89.9,-4.0,-4.9,,,,800.9188981422157
+174,W1,dolostone,Bitter Springs,-1857.1,90.4,-3.6,-5.0,,,,800.8711723254315
+175,W1,,Bitter Springs,-1857.0,90.5,,,,,,800.8616271620747
+176,W1,insoluble residue,Bitter Springs,-1855.7,91.8,,,-31.5,28.0,,800.737540038436
+177,W1,dolostone,Bitter Springs,-1855.2,92.3,-3.6,-4.6,,,,800.6898142216519
+178,W1,dolostone,Bitter Springs,-1855.0,92.5,-3.5,-5.2,,,,800.6707238949382
+179,W1,dolostone,Bitter Springs,-1853.7,93.8,-3.4,-4.8,,,,800.5466367712995
+180,W1,dolostone,Bitter Springs,-1853.4,94.1,-3.1,-4.7,,,,800.5180012812291
+181,W1,dolostone,Bitter Springs,-1850.2,97.3,,,,,,800.2125560538108
+182,W1,dolostone,Bitter Springs,-1849.5,98.0,,,,,,800.145739910313
+183,W1,dolostone,Bitter Springs,-1848.2,99.3,,,,,,800.0216527866743
+184,W1,dolostone,Bitter Springs,-1846.2,101.3,-2.3,-3.6,,,,799.8307495195378
+185,W1,dolostone,Bitter Springs,-1846.0,101.5,-3.1,-4.3,,,,799.8116591928241
+186,W1,dolostone,Bitter Springs,-1845.4,102.1,-3.1,-4.6,,,,799.7543882126831
+187,W1,dolostone,Bitter Springs,-1844.7,102.8,-3.0,-4.3,,,,799.6875720691853
+188,W1,,Bitter Springs,-1844.5,103.0,,,,,,799.6684817424716
+189,W1,insoluble residue,Bitter Springs,-1844.3,103.2,,,-31.0,28.0,,799.6493914157579
+190,W1,dolostone,Bitter Springs,-1843.4,104.1,-3.1,-4.5,,,,799.5634849455465
+191,W1,,Bitter Springs,-1842.8,104.7,,,,,,799.5062139654055
+192,W1,dolostone,Bitter Springs,-1842.2,105.3,-2.9,-5.1,,,,799.4489429852646
+193,W1,dolostone,Bitter Springs,-1841.4,106.1,-3.1,-5.3,,,,799.37258167841
+194,W1,dolostone,Bitter Springs,-1840.7,106.8,-3.1,-4.1,,,,799.3057655349122
+195,W1,dolostone,Bitter Springs,-1839.6,107.9,-3.1,-4.1,-31.0,27.9,,799.2007687379871
+196,W1,dolostone,Bitter Springs,-1838.7,108.8,-3.4,-4.9,,,,799.1148622677757
+197,W1,,Bitter Springs,-1838.6,108.9,,,,,,799.1053171044189
+198,W1,dolostone,Bitter Springs,-1838.2,109.3,-2.9,-5.4,,,,799.0671364509916
+199,W1,insoluble residue,Bitter Springs,-1837.2,110.3,,,-32.3,29.4,,798.9716848174234
+200,W1,dolostone,Bitter Springs,-1836.6,110.9,-2.4,-3.5,,,,798.9144138372824
+201,W1,dolostone,Bitter Springs,-1834.7,112.8,-2.5,-4.8,,,,798.7330557335027
+202,W1,,Bitter Springs,-1834.6,112.9,,,,,,798.7235105701459
+203,W1,dolostone,Bitter Springs,-1833.5,114.0,-2.4,-4.5,,,,798.6185137732208
+204,W1,insoluble residue,Bitter Springs,-1833.3,114.2,,,-30.2,27.6,,798.5994234465071
+205,W1,dolostone,Bitter Springs,-1833.2,114.3,-2.6,-4.4,,,,798.5898782831503
+206,W1,dolostone,Bitter Springs,-1832.0,115.5,-2.6,-4.2,,,,798.4753363228684
+207,W1,dolostone,Bitter Springs,-1831.7,115.8,-2.7,-3.8,,,,798.446700832798
+208,W1,dolostone,Bitter Springs,-1831.2,116.3,-2.7,-4.3,,,,798.3989750160139
+209,W1,dolostone,Bitter Springs,-1829.9,117.6,-2.9,-3.7,,,,798.2748878923752
+210,W1,insoluble residue,Bitter Springs,-1829.1,118.4,,,-31.8,28.8,,798.1985265855207
+211,W1,dolostone,Bitter Springs,-1828.5,119.0,-3.2,-4.5,,,,798.1412556053797
+212,W1,dolostone,Bitter Springs,-1827.0,120.5,-3.6,-4.6,,,,797.9980781550273
+213,W1,dolostone,Bitter Springs,-1826.8,120.7,-3.6,-4.5,,,,797.9789878283136
+214,W1,insoluble residue,Bitter Springs,-1825.9,121.6,,,-28.9,26.2,,797.8930813581022
+215,W1,dolostone,Bitter Springs,-1825.4,122.1,-2.7,-3.5,,,,797.8453555413181
+216,W1,dolostone,Bitter Springs,-1824.7,122.8,-2.8,-4.0,,,,797.7785393978203
+217,W1,dolostone,Bitter Springs,-1823.1,124.4,-2.6,-4.3,,,,797.6258167841111
+218,W1,insoluble residue,Bitter Springs,-1823.0,124.5,,,-29.8,27.3,,797.6162716207542
+219,W1,,Bitter Springs,-1822.2,125.3,,,,,,797.5399103138997
+220,W1,dolostone,Bitter Springs,-1821.3,126.2,-2.5,-5.0,,,,797.4540038436883
+221,W1,dolostone,Bitter Springs,-1820.9,126.6,-2.5,-4.8,-30.4,27.9,,797.415823190261
+222,W1,dolostone,Bitter Springs,-1819.9,127.6,-2.2,-4.7,,,,797.3203715566927
+223,W1,dolostone,Bitter Springs,-1818.5,129.0,-2.6,-4.9,,,,797.1867392696972
+224,W1,insoluble residue,Bitter Springs,-1818.0,129.5,,,-29.8,27.2,,797.1390134529131
+225,W1,dolostone,Bitter Springs,-1817.3,130.2,-2.8,-6.1,,,,797.0721973094153
+226,W1,,Bitter Springs,-1817.1,130.4,,,,,,797.0531069827016
+227,W1,insoluble residue,Bitter Springs,-1817.0,130.5,,,-28.3,25.5,,797.0435618193447
+228,W1,dolostone,Bitter Springs,-1815.7,131.8,-2.4,-5.2,,,,796.9194746957061
+229,W1,dolostone,Bitter Springs,-1814.4,133.1,-2.7,-6.0,,,,796.7953875720674
+230,W1,insoluble residue,Bitter Springs,-1813.3,134.2,,,-29.7,27.0,,796.6903907751423
+231,W1,insoluble residue,Bitter Springs,-1813.0,134.5,,,-30.0,27.5,,796.6617552850719
+232,W1,dolostone,Bitter Springs,-1812.4,135.1,-2.5,-6.0,,,,796.6044843049309
+233,W1,dolostone,Bitter Springs,-1811.0,136.5,-2.0,-5.9,,,,796.4708520179354
+234,W1,dolostone,Bitter Springs,-1810.5,137.0,-2.4,-6.6,,,,796.4231262011513
+235,W1,dolostone,Bitter Springs,-1809.6,137.9,-2.5,-5.7,,,,796.3372197309399
+236,W1,dolostone,Bitter Springs,-1807.7,139.8,-3.5,-6.2,,,,796.1558616271602
+237,W1,insoluble residue,Bitter Springs,-1807.6,139.9,,,-30.1,26.6,,796.1463164638034
+238,W1,dolostone,Bitter Springs,-1805.7,141.8,-2.0,-6.1,,,,795.9649583600237
+239,W1,dolostone,Bitter Springs,-1804.4,143.1,-2.5,-5.3,-30.4,27.9,0.016,795.840871236385
+240,W1,dolostone,Bitter Springs,-1802.7,144.8,-2.3,-5.9,,,,795.6786034593191
+241,W1,,Bitter Springs,-1801.7,145.9,,,,,,795.5831518257509
+242,W1,dolostone,Bitter Springs,-1801.0,146.5,-2.0,-6.1,,,,795.516335682253
+243,W1,,Bitter Springs,-1800.0,147.5,,,,,,795.4208840486848
+244,W1,dolostone,Bitter Springs,-1799.2,148.3,-2.0,-5.5,,,,795.3445227418302
+245,W1,dolostone,Bitter Springs,-1798.0,149.5,-2.1,-5.7,-29.8,27.8,0.03,795.2299807815484
+246,W1,dolostone,Bitter Springs,-1796.7,150.8,-3.1,-7.5,,,,795.1058936579097
+247,W1,,Bitter Springs,-1796.5,151.0,,,,,,795.086803331196
+248,W1,dolostone,Bitter Springs,-1794.0,153.5,-1.8,-4.6,,,,794.8481742472754
+249,W1,dolostone,Bitter Springs,-1793.0,154.5,-1.5,-4.3,-26.8,25.3,0.006999999999999999,794.7527226137072
+250,W1,dolostone,Bitter Springs,-1791.4,156.1,-1.8,-4.5,,,,794.6
+251,W1,insoluble residue,Bitter Springs,-1750.2,197.3,,,-26.7,32.4,,790.6393246187364
+252,W1,dolostone,Bitter Springs,-1750.0,197.5,5.7,-2.5,,,,790.6200980392157
+253,W1,dolostone,Bitter Springs,-1743.0,204.5,4.9,-2.5,,,,789.9471677559912
+254,W1,insoluble residue,Bitter Springs,-1743.0,204.5,,,-27.2,32.1,,789.9471677559912
+255,W1,dolostone,Bitter Springs,-1742.7,204.8,5.1,-2.6,,,,789.9183278867102
+256,W1,insoluble residue,Bitter Springs,-1742.5,205.0,,,-26.3,31.8,,789.8991013071895
+257,W1,dolostone,Bitter Springs,-1742.4,205.1,5.6,-3.4,,,,789.8894880174292
+258,W1,limestone,Bitter Springs,-1741.3,206.2,5.0,-5.9,,,,789.7837418300654
+259,W1,limestone,Bitter Springs,-1740.6,206.9,5.0,-6.0,,,,789.716448801743
+260,W1,limestone,Bitter Springs,-1740.3,207.2,5.1,-6.1,,,,789.687608932462
+261,W1,limestone,Bitter Springs,-1739.3,208.2,5.6,-5.5,,,,789.5914760348585
+262,W1,limestone,Bitter Springs,-1738.5,209.0,5.1,-6.1,,,,789.5145697167757
+263,W1,limestone,Bitter Springs,-1737.7,209.8,5.9,-5.7,,,,789.4376633986928
+264,W1,insoluble residue,Bitter Springs,-1736.8,210.7,,,-25.9,31.3,,789.3511437908497
+265,W1,limestone,Bitter Springs,-1735.7,211.8,5.5,-5.5,,,,789.2453976034859
+266,W1,limestone,Bitter Springs,-1734.2,213.3,6.1,-4.9,,,,789.1011982570807
+267,W1,limestone,Bitter Springs,-1733.6,213.9,5.9,-5.0,,,,789.0435185185186
+268,W1,limestone,Bitter Springs,-1733.0,214.5,6.0,-5.1,,,,788.9858387799565
+269,W1,insoluble residue,Bitter Springs,-1732.9,214.6,,,-26.3,32.3,,788.9762254901962
+270,W1,limestone,Bitter Springs,-1732.0,215.5,5.8,-4.9,,,,788.889705882353
+271,W1,limestone,Bitter Springs,-1730.9,216.6,5.4,-5.3,,,,788.7839596949892
+272,W1,dolostone,Bitter Springs,-1729.6,217.9,5.3,-3.3,,,,788.6589869281047
+273,W1,dolostone,Bitter Springs,-1728.8,218.7,5.0,-2.5,-27.9,32.9,,788.5820806100219
+274,W1,insoluble residue,Bitter Springs,-1727.8,219.7,,,-26.7,31.6,,788.4859477124184
+275,W1,dolostone,Bitter Springs,-1727.7,219.8,4.9,-2.7,,,,788.476334422658
+276,W1,,Bitter Springs,-1727.1,220.4,,,,,,788.4186546840959
+277,W1,limestone,Bitter Springs,-1726.4,221.1,4.8,-5.5,,,,788.3513616557735
+278,W1,dolostone,Bitter Springs,-1723.3,224.2,3.8,-2.1,,,,788.0533496732027
+279,W1,insoluble residue,Bitter Springs,-1723.3,224.2,,,-27.0,30.8,,788.0533496732027
+280,W1,dolostone,Bitter Springs,-1721.2,226.3,4.1,-3.7,,,,787.8514705882353
+281,W1,insoluble residue,Bitter Springs,-1721.2,226.3,,,-26.6,30.8,,787.8514705882353
+282,W1,dolostone,Bitter Springs,-1720.3,227.2,3.9,-5.2,,,,787.7649509803922
+283,W1,,Bitter Springs,-1719.2,228.3,,,,,,787.6592047930284
+284,W1,dolostone,Bitter Springs,-1719.1,228.4,4.1,-2.6,,,,787.649591503268
+285,W1,limestone,Bitter Springs,-1718.0,229.5,1.1,-11.7,,,,787.5438453159042
+286,W1,dolostone,Bitter Springs,-1709.7,237.8,5.6,-1.8,,,,786.7459422657952
+287,W1,insoluble residue,Bitter Springs,-1709.7,237.8,,,-27.4,33.0,,786.7459422657952
+288,W1,dolostone,Bitter Springs,-1707.5,240.0,5.5,-2.1,,,,786.5344498910675
+289,W1,limestone,Bitter Springs,-1704.7,242.8,4.9,-8.7,,,,786.2652777777778
+290,W1,insoluble residue,Bitter Springs,-1703.8,243.7,,,-26.6,31.4,,786.1787581699347
+291,W1,limestone,Bitter Springs,-1703.7,243.8,4.8,-6.6,,,,786.1691448801744
+292,W1,limestone,Bitter Springs,-1703.3,244.2,4.7,-6.7,,,,786.130691721133
+293,W1,dolostone,Bitter Springs,-1702.3,245.2,5.8,-3.3,,,,786.0345588235294
+294,W1,dolostone,Bitter Springs,-1701.9,245.6,5.9,-1.5,,,,785.996105664488
+295,W1,insoluble residue,Bitter Springs,-1701.9,245.6,,,-24.4,30.2,,785.996105664488
+296,W1,dolostone,Bitter Springs,-1700.7,246.8,5.1,-3.8,,,,785.8807461873638
+297,W1,dolostone,Bitter Springs,-1695.6,251.9,5.3,-2.8,,,,785.390468409586
+298,W1,dolostone,Bitter Springs,-1695.4,252.1,5.1,-2.4,,,,785.3712418300653
+299,W1,insoluble residue,Bitter Springs,-1695.3,252.2,,,-21.5,26.9,,785.3616285403049
+300,W1,limestone,Bitter Springs,-1673.9,273.6,3.8,-6.6,,,,783.3043845315902
+301,W1,limestone,Bitter Springs,-1673.6,273.9,4.1,-6.4,,,,783.2755446623091
+302,W1,limestone,Bitter Springs,-1673.2,274.3,4.3,-6.8,,,,783.2370915032677
+303,W1,,Bitter Springs,-1673.1,274.4,,,,,,783.2274782135073
+304,W1,limestone,Bitter Springs,-1671.9,275.6,3.9,-9.5,,,,783.1121187363832
+305,W1,limestone,Bitter Springs,-1671.3,276.2,3.6,-9.2,,,,783.0544389978211
+306,W1,limestone,Bitter Springs,-1671.1,276.4,3.7,-7.7,-25.3,29.0,0.006,783.0352124183004
+307,W1,dolostone,Bitter Springs,-1671.0,276.5,4.3,-3.7,,,,783.0255991285401
+308,W1,dolostone,Bitter Springs,-1670.9,276.6,3.6,-3.0,,,,783.0159858387798
+309,W1,limestone,Bitter Springs,-1665.2,282.3,4.3,-8.2,-25.8,30.1,0.006,782.4680283224399
+310,W1,limestone,Bitter Springs,-1664.8,282.7,4.7,-7.5,,,,782.4295751633985
+311,W1,limestone,Bitter Springs,-1664.0,283.5,4.9,-10.4,,,,782.3526688453156
+312,W1,limestone,Bitter Springs,-1662.9,284.6,4.8,-11.4,,,,782.2469226579518
+313,W1,insoluble residue,Bitter Springs,-1659.8,287.7,,,-25.8,31.9,,781.948910675381
+314,W1,limestone,Bitter Springs,-1659.3,288.2,6.1,-10.1,,,,781.9008442265792
+315,W1,limestone,Bitter Springs,-1658.6,288.9,6.0,-10.5,,,,781.8335511982568
+316,W1,dolostone,Bitter Springs,-1658.3,289.2,7.1,-5.6,,,,781.8047113289758
+317,W1,limestone,Bitter Springs,-1657.8,289.7,6.2,-12.7,,,,781.7566448801741
+318,W1,dolostone,Bitter Springs,-1654.4,293.1,4.4,-3.5,,,,781.4297930283223
+319,W1,dolostone,Bitter Springs,-1652.5,295.0,4.6,-5.1,,,,781.2471405228756
+320,W1,dolostone,Bitter Springs,-1648.4,299.1,5.8,-4.8,-25.1,30.9,0.021,780.8529956427013
+321,W1,dolostone,Bitter Springs,-1645.6,301.9,5.6,-4.0,,,,780.5838235294116
+322,W1,dolostone,Bitter Springs,-1644.2,303.3,4.8,-6.7,,,,780.4492374727668
+323,W1,dolostone,Bitter Springs,-1643.8,303.7,5.7,-4.9,,,,780.4107843137253
+324,W1,dolostone,Bitter Springs,-1642.3,305.2,6.7,-2.9,-25.5,32.2,0.013999999999999999,780.2665849673201
+325,W1,dolostone,Bitter Springs,-1641.8,305.7,7.3,-8.3,,,,780.2185185185184
+326,W1,limestone,Bitter Springs,-1640.5,307.0,6.8,-6.9,,,,780.0935457516339
+327,W1,insoluble residue,Bitter Springs,-1639.5,308.0,,,-26.1,32.8,,779.9974128540304
+328,W1,limestone,Bitter Springs,-1639.4,308.1,6.7,-7.2,,,,779.9877995642701
+329,W1,dolostone,Bitter Springs,-1638.7,308.8,7.3,-5.9,,,,779.9205065359477
+330,W1,dolostone,Bitter Springs,-1637.5,310.0,6.7,-5.5,,,,779.8051470588234
+331,W1,dolostone,Bitter Springs,-1637.1,310.4,6.7,-3.2,,,,779.766693899782
+332,W1,dolostone,Bitter Springs,-1635.8,311.7,7.2,-7.0,,,,779.6417211328975
+333,W1,insoluble residue,Bitter Springs,-1634.9,312.6,,,-24.6,31.3,,779.5552015250544
+334,W1,limestone,Bitter Springs,-1634.8,312.7,6.7,-6.8,,,,779.545588235294
+335,W1,limestone,Bitter Springs,-1633.4,314.1,6.1,-8.4,,,,779.4110021786491
+336,W1,dolostone,Bitter Springs,-1632.6,314.9,4.7,-6.4,,,,779.3340958605663
+337,W1,dolostone,Bitter Springs,-1632.1,315.4,7.0,-4.0,,,,779.2860294117646
+338,W1,insoluble residue,Bitter Springs,-1632.0,315.5,,,-22.2,29.2,,779.2764161220043
+339,W1,dolostone,Bitter Springs,-1631.3,316.2,6.8,-3.4,,,,779.2091230936819
+340,W1,limestone,Bitter Springs,-1630.1,317.4,7.6,-6.6,,,,779.0937636165577
+341,W1,dolostone,Bitter Springs,-1629.2,318.3,5.4,-2.5,,,,779.0072440087146
+342,W1,dolostone,Bitter Springs,-1628.3,319.2,5.8,-2.2,-25.5,31.4,0.048,778.9207244008714
+343,W1,limestone,Bitter Springs,-1626.2,321.3,7.0,-7.9,,,,778.7188453159041
+344,W1,limestone,Bitter Springs,-1625.1,322.4,7.1,-8.3,,,,778.6130991285403
+345,W1,limestone,Bitter Springs,-1624.0,323.5,6.9,-6.9,,,,778.5073529411765
+346,W1,limestone,Bitter Springs,-1623.0,324.5,6.5,-7.1,,,,778.4112200435729
+347,W1,limestone,Bitter Springs,-1622.0,325.5,6.9,-7.1,,,,778.3150871459694
+348,W1,dolostone,Bitter Springs,-1621.0,326.5,6.9,-5.8,,,,778.2189542483659
+349,W1,insoluble residue,Bitter Springs,-1620.5,327.0,,,-24.1,30.8,,778.1708877995642
+350,W1,limestone,Bitter Springs,-1620.4,327.1,6.7,-4.8,,,,778.1612745098039
+351,W1,dolostone,Bitter Springs,-1619.3,328.2,6.4,-2.8,,,,778.0555283224401
+352,W1,dolostone,Bitter Springs,-1618.8,328.7,6.8,-3.2,,,,778.0074618736384
+353,W1,limestone,Bitter Springs,-1617.4,330.1,5.5,-3.8,,,,777.8728758169935
+354,W1,limestone,Bitter Springs,-1617.0,330.5,7.3,-7.6,,,,777.8344226579521
+355,W1,limestone,Bitter Springs,-1615.9,331.6,5.5,-7.9,-27.2,32.7,0.040999999999999995,777.7286764705883
+356,W1,dolostone,Bitter Springs,-1614.7,332.8,4.1,-1.8,,,,777.6133169934641
+357,W1,dolostone,Bitter Springs,-1613.1,334.4,5.1,-2.9,,,,777.4595043572984
+358,W1,limestone,Bitter Springs,-1611.7,335.8,6.2,-7.0,,,,777.3249183006536
+359,W1,dolostone,Bitter Springs,-1610.7,336.8,4.1,-2.5,,,,777.2287854030501
+360,W1,dolostone,Bitter Springs,-1609.8,337.7,5.8,-4.1,-26.8,32.6,0.055,777.142265795207
+361,W1,limestone,Bitter Springs,-1608.8,338.7,6.9,-8.6,,,,777.0461328976035
+362,W1,limestone,Bitter Springs,-1608.0,339.5,7.2,-7.1,,,,776.9692265795206
+363,W1,limestone,Bitter Springs,-1607.0,340.5,6.8,-7.9,,,,776.8730936819171
+364,W1,limestone,Bitter Springs,-1605.9,341.6,6.5,-8.1,,,,776.7673474945533
+365,W1,limestone,Bitter Springs,-1604.9,342.6,6.0,-7.9,,,,776.6712145969498
+366,W1,limestone,Bitter Springs,-1604.0,343.5,6.1,-8.0,,,,776.5846949891067
+367,W1,limestone,Bitter Springs,-1603.0,344.5,6.1,-8.1,,,,776.4885620915031
+368,W1,limestone,Bitter Springs,-1602.1,345.4,6.3,-7.0,,,,776.40204248366
+369,W1,dolostone,Bitter Springs,-1601.5,346.0,6.3,-6.7,,,,776.3443627450979
+370,W1,limestone,Bitter Springs,-1600.9,346.6,4.9,-10.4,,,,776.2866830065358
+371,W1,dolostone,Bitter Springs,-1594.8,352.7,4.2,-3.5,,,,775.7002723311545
+372,W1,dolostone,Bitter Springs,-1591.0,356.5,4.4,-4.1,,,,775.3349673202612
+373,W1,insoluble residue,Bitter Springs,-1590.9,356.6,,,-27.1,31.5,,775.3253540305009
+374,W1,dolostone,Bitter Springs,-1590.3,357.2,5.2,-4.0,,,,775.2676742919388
+375,W1,,Bitter Springs,-1589.8,357.7,,,,,,775.219607843137
+376,W1,dolostone,Bitter Springs,-1589.4,358.1,4.6,-5.5,,,,775.1811546840956
+377,W1,dolostone,Bitter Springs,-1587.6,359.9,4.1,-4.8,-25.8,29.8,0.038,775.0081154684093
+378,W1,dolostone,Bitter Springs,-1586.6,360.9,4.2,-5.4,,,,774.9119825708058
+379,W1,insoluble residue,Bitter Springs,-1581.1,366.4,,,-27.8,33.3,,774.3832516339866
+380,W1,dolostone,Bitter Springs,-1581.0,366.5,5.6,-3.8,,,,774.3736383442263
+381,W1,dolostone,Bitter Springs,-1580.0,367.5,6.2,-4.0,,,,774.2775054466227
+382,W1,dolostone,Bitter Springs,-1579.8,367.7,6.1,-5.0,,,,774.258278867102
+383,W1,dolostone,Bitter Springs,-1578.2,369.3,5.5,-4.9,,,,774.1044662309365
+384,W1,dolostone,Bitter Springs,-1577.9,369.6,4.9,-5.3,,,,774.0756263616555
+385,W1,dolostone,Bitter Springs,-1577.4,370.1,5.1,-5.5,,,,774.0275599128538
+386,W1,dolostone,Bitter Springs,-1576.5,371.0,4.5,-5.0,,,,773.9410403050107
+387,W1,,Bitter Springs,-1574.4,373.1,,,,,,773.7391612200433
+388,W1,dolostone,Bitter Springs,-1570.0,377.5,4.5,-4.0,-26.2,30.7,0.013000000000000001,773.316176470588
+389,W1,dolostone,Bitter Springs,-1569.0,378.5,4.7,-4.6,,,,773.2200435729844
+390,W1,dolostone,Bitter Springs,-1567.9,379.6,4.7,-4.0,,,,773.1142973856206
+391,W1,dolostone,Bitter Springs,-1567.5,380.0,4.3,-5.5,,,,773.0758442265792
+392,W1,dolostone,Bitter Springs,-1567.1,380.4,4.0,-5.6,,,,773.0373910675378
+393,W1,dolostone,Bitter Springs,-1566.6,380.9,3.3,-3.3,,,,772.9893246187361
+394,W1,dolostone,Bitter Springs,-1562.8,384.7,4.8,-4.8,,,,772.6240196078428
+395,W1,dolostone,Bitter Springs,-1561.6,385.9,4.3,-5.4,,,,772.5086601307186
+396,W1,dolostone,Bitter Springs,-1560.2,387.3,3.4,-7.7,,,,772.3740740740737
+397,W1,dolostone,Bitter Springs,-1559.2,388.3,4.6,-5.0,-26.9,31.5,0.057999999999999996,772.2779411764702
+398,W1,dolostone,Bitter Springs,-1558.3,389.2,4.6,-5.5,,,,772.1914215686271
+399,W1,dolostone,Bitter Springs,-1557.6,389.9,4.0,-5.2,,,,772.1241285403047
+400,W1,,Bitter Springs,-1548.6,398.9,,,,,,771.2589324618733
+401,W1,insoluble residue,Bitter Springs,-1548.3,399.2,,,-27.2,31.8,,771.2300925925923
+402,W1,dolostone,Bitter Springs,-1548.0,399.5,4.6,-5.1,,,,771.2012527233113
+403,W1,dolostone,Bitter Springs,-1543.0,404.5,4.8,-5.6,,,,770.7205882352939
+404,W1,insoluble residue,Bitter Springs,-1542.8,404.7,,,-27.2,32.0,,770.7013616557732
+405,W1,dolostone,Bitter Springs,-1542.1,405.4,4.6,-5.9,,,,770.6340686274508
+406,W1,dolostone,Bitter Springs,-1541.3,406.2,4.4,-5.8,,,,770.557162309368
+407,W1,dolostone,Bitter Springs,-1540.5,407.0,4.3,-6.1,,,,770.4802559912852
+408,W1,insoluble residue,Bitter Springs,-1540.4,407.1,,,-26.8,31.1,,770.4706427015249
+409,W1,dolostone,Bitter Springs,-1539.1,408.4,3.3,-5.2,,,,770.3456699346403
+410,W1,dolostone,Bitter Springs,-1538.5,409.0,4.3,-4.9,,,,770.2879901960782
+411,W1,,Bitter Springs,-1538.3,409.2,,,,,,770.2687636165575
+412,W1,dolostone,Bitter Springs,-1537.0,410.5,3.9,-4.5,-25.9,29.8,0.054000000000000006,770.143790849673
+413,W1,dolostone,Bitter Springs,-1536.5,411.0,3.8,-5.6,,,,770.0957244008713
+414,W1,dolostone,Bitter Springs,-1535.0,412.5,2.0,-4.8,,,,769.9515250544661
+415,W1,dolostone,Bitter Springs,-1498.7,448.8,3.8,-4.0,,,,766.4619008714595
+416,W1,dolostone,Bitter Springs,-1498.0,449.5,3.6,-4.2,,,,766.3946078431371
+417,W1,dolostone,Bitter Springs,-1497.1,450.4,3.6,-4.3,-28.1,31.8,0.022000000000000002,766.308088235294
+418,W1,dolostone,Bitter Springs,-1495.0,452.5,3.6,-6.3,,,,766.1062091503267
+419,W1,insoluble residue,Bitter Springs,-1494.1,453.4,,,-28.5,32.3,,766.0196895424835
+420,W1,dolostone,Bitter Springs,-1494.0,453.5,3.8,-4.1,,,,766.0100762527233
+421,W1,dolostone,Bitter Springs,-1493.6,453.9,3.6,-3.9,,,,765.9716230936818
+422,W1,dolostone,Bitter Springs,-1492.4,455.1,3.4,-5.2,-28.3,31.7,0.021,765.8562636165577
+423,W1,dolostone,Bitter Springs,-1491.6,455.9,3.3,-4.4,,,,765.7793572984749
+424,W1,,Bitter Springs,-1491.1,456.4,,,,,,765.7312908496732
+425,W1,dolostone,Bitter Springs,-1490.7,456.8,3.1,-4.8,,,,765.6928376906318
+426,W1,dolostone,Bitter Springs,-1489.7,457.8,2.7,-8.8,,,,765.5967047930283
+427,W1,,Bitter Springs,-1487.2,460.3,,,,,,765.3563725490195
+428,W1,dolostone,Bitter Springs,-1486.1,461.4,2.5,-4.4,-26.6,29.1,0.013000000000000001,765.2506263616557
+429,W1,,Bitter Springs,-1461.5,486.0,,,,,,762.8857570806099
+430,W1,,Bitter Springs,-1461.1,486.4,,,,,,762.8473039215685
+431,W1,dolostone,Bitter Springs,-1459.0,488.5,4.8,-5.0,,,,762.6454248366011
+432,W1,dolostone,Bitter Springs,-1455.6,491.9,4.9,-4.5,,,,762.3185729847493
+433,W1,dolostone,Bitter Springs,-1455.5,492.0,5.0,-1.2,,,,762.308959694989
+434,W1,dolostone,Bitter Springs,-1453.3,494.2,4.7,-4.7,,,,762.0974673202613
+435,W1,,Bitter Springs,-1451.2,496.3,,,,,,761.895588235294
+436,W1,dolostone,Bitter Springs,-1451.1,496.4,5.0,-4.1,,,,761.8859749455336
+437,W1,dolostone,Bitter Springs,-1450.3,497.2,4.1,-3.1,,,,761.8090686274508
+438,W1,dolostone,Bitter Springs,-1449.6,497.9,3.5,-2.2,,,,761.7417755991283
+439,W1,dolostone,Bitter Springs,-1446.5,501.0,2.6,-3.3,,,,761.4437636165576
+440,W1,dolostone,Bitter Springs,-1445.4,502.1,2.8,-3.9,,,,761.3380174291938
+441,W1,,Bitter Springs,-1445.2,502.3,,,,,,761.3187908496731
+442,W1,,Bitter Springs,-1443.4,504.1,,,,,,761.1457516339868
+443,W1,,Bitter Springs,-1442.4,505.1,,,,,,761.0496187363833
+444,W1,,Bitter Springs,-1441.0,506.5,,,,,,760.9150326797384
+445,W1,,Bitter Springs,-1440.8,506.7,,,,,,760.8958061002177
+446,W1,dolostone,Bitter Springs,-1440.7,506.8,2.7,-0.9,,,,760.8861928104574
+447,W1,,Bitter Springs,-1439.0,508.5,,,,,,760.7227668845314
+448,W1,dolostone,Bitter Springs,-1438.2,509.3,3.8,-3.2,,,,760.6458605664486
+449,W1,dolostone,Bitter Springs,-1435.2,512.3,3.8,-4.2,,,,760.3574618736382
+450,W1,,Bitter Springs,-1434.7,512.8,,,,,,760.3093954248365
+451,W1,dolostone,Bitter Springs,-1434.4,513.1,4.2,-2.6,,,,760.2805555555555
+452,W1,insoluble residue,Bitter Springs,-1434.1,513.4,,,-26.4,30.6,,760.2517156862743
+453,W1,dolostone,Bitter Springs,-1433.1,514.4,4.3,-1.9,,,,760.1555827886708
+454,W1,,Bitter Springs,-1432.0,515.5,,,,,,760.049836601307
+455,W1,,Bitter Springs,-1431.6,516.0,,,,,,760.0113834422656
+456,W1,dolostone,Bitter Springs,-1430.1,517.4,4.8,-3.3,,,,759.8671840958604
+457,W1,insoluble residue,Bitter Springs,-1430.1,517.4,,,-28.2,33.0,,759.8671840958604
+458,W1,dolostone,Bitter Springs,-1430.0,517.5,4.7,-3.9,,,,759.8575708061001
+459,W1,dolostone,Bitter Springs,-1428.7,518.8,4.5,-3.7,,,,759.7325980392155
+460,W1,,Bitter Springs,-1428.6,518.9,,,,,,759.7229847494551
+461,W1,dolostone,Bitter Springs,-1428.4,519.1,4.3,-4.2,,,,759.7037581699344
+462,W1,insoluble residue,Bitter Springs,-1428.4,519.1,,,-27.5,31.8,,759.7037581699344
+463,W1,dolostone,Bitter Springs,-1427.5,520.0,3.6,-2.8,,,,759.6172385620913
+464,W1,insoluble residue,Bitter Springs,-1427.2,520.3,,,-28.2,31.8,,759.5883986928103
+465,W1,,Bitter Springs,-1427.1,520.4,,,,,,759.5787854030499
+466,W1,insoluble residue,Bitter Springs,-1426.4,521.1,,,-27.6,31.5,,759.5114923747275
+467,W1,dolostone,Bitter Springs,-1426.3,521.2,3.9,-3.7,,,,759.5018790849671
+468,W1,,Bitter Springs,-1426.1,521.4,,,,,,759.4826525054464
+469,W1,dolostone,Bitter Springs,-1425.5,522.0,3.3,-3.6,,,,759.4249727668843
+470,W1,dolostone,Bitter Springs,-1425.4,522.1,3.2,-4.5,,,,759.415359477124
+471,W1,dolostone,Bitter Springs,-1424.3,523.2,4.3,0.5,,,,759.3096132897601
+472,W1,,Bitter Springs,-1424.2,523.3,,,,,,759.3
